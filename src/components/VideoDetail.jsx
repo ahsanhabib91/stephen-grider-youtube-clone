@@ -6,5 +6,5 @@ const VideoDetail = ({ video }) => {
   }
   return <div>{video.snippet.title}</div>;
 };
-
+console.log("asdasd");
 export default VideoDetail;
